@@ -3,8 +3,10 @@
 A new Flutter project.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
+# Why bloc ?
+Business logic components (BLoC) allow you to separate the business logic from the UI.
+Writing code in BLoC makes it easier to write and reuse tests.
+Clean architecture with  bloc will solve your problem. Your code will become scalable maintainable and testable
 
 # Photos
 ![bistro](https://user-images.githubusercontent.com/14231362/141441934-b3f50e4c-8dea-4ab4-b311-8a521cf96130.jpg)
